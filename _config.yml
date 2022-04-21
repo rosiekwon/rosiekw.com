@@ -54,24 +54,24 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 #content:
-  #- title: Projects # Title for the section
-     #layout: list # Type of content section (list/text)
-     #content:
-      #- layout: top-middle
-        #title: 
-        #link: github.com/sproogen
-        # link_text: Project Website
-        #additional_links:
-         # - title:  sproogen/modern-resume-theme
-          #  icon: fab fa-github
-           # url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        #quote: >
-          #This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        #description: | # this will include new lines to allow paragraphs
-         # I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+#  - title: Projects # Title for the section
+#     layout: list # Type of content section (list/text)
+#     content:
+#      - layout: top-middle
+#        title: 
+#        link: github.com/sproogen
+#        link_text: Project Website
+#        additional_links:
+#          - title:  sproogen/modern-resume-theme
+#            icon: fab fa-github
+#             url: github.com/sproogen/modern-resume-theme
+#           - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#             icon: fab fa-github
+#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+#        quote: >
+#          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+#        description: | # this will include new lines to allow paragraphs
+#          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
  
 
   - title: Experience # Title for the section
@@ -91,13 +91,12 @@ about_content: | # this will include new lines to allow paragraphs
      - layout: left
         title: Keimyung University Dongsan Hospital 
         link: https://dongsan.dsmc.or.kr:49870/
-        # link_text: boringcompany.com
         sub_title: Researcher in Nuclear Medicine Department
         caption: November 2021 - Present
         description: | # this will include new lines to allow paragraphs
-        •	Researched in predicting the SUVmax of axillary lymph node(ALN) metastasis in patients with breast cancer from PET/CT images using the deep learning algorithms. <br /> 
-        •	Gained a strong foundation understanding of the methods of diagnosing breast cancer through axillary lymph node metastasis and treatments conducted for breast cancer. <br /> 
-        •	Extracted and analzsed data features in PET images of Intra-hepatic cholangiocarcinoma patients using 3D slicer and Pyradiomics to predict the stages before surgery   
+          •	Researched in predicting the SUVmax of axillary lymph node(ALN) metastasis in patients with breast cancer from PET/CT images using the deep learning algorithms. <br /> 
+          • Gained a strong foundation understanding of the methods of diagnosing breast cancer through axillary lymph node metastasis and treatments conducted for breast cancer. <br /> 
+          •	Extracted and analzsed data features in PET images of Intra-hepatic cholangiocarcinoma patients using 3D slicer and Pyradiomics to predict the stages before surgery   
 
             
   - title: Education # Title for the section
@@ -116,13 +115,9 @@ about_content: | # this will include new lines to allow paragraphs
     content: | # this will include new lines to allow paragraphs
       - BIOMEDE 458 [Biomedical Instrumentation and Design] <br /> 
            •	Project : Continuous Glucose Monitor Using Near-Infrared-Spectroscopy <br /> 
-           
-      - BIOMEDE 442 [Introduction to Biomedical Imaging]<br /> 
-      
-      - BIOMEDE 350 [Introduction to Biomedical Engineering Design] <br /> 
-      
-           •	Project : Hip implant desgin<br /> 
-           
+      - BIOMEDE 442 [Introduction to Biomedical Imaging]<br />      
+      - BIOMEDE 350 [Introduction to Biomedical Engineering Design] <br />       
+           •	Project : Hip implant desgin<br />         
       - IOE 366 [Introduction to Engineering Data Analytics]<br /> 
       
       - BIOMEDE 241 [Statistics, Computation, and Data Analysis]<br /> 
