@@ -52,10 +52,11 @@ about_content: | # this will include new lines to allow paragraphs
   
   Skills <mark>Python</mark> <mark>MATLAB</mark> <mark>Problem-solving</mark> <mark>Analytical thinking</mark> <mark>Research</mark>
 
+=begin
 content:
   - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
+     layout: list # Type of content section (list/text)
+     content:
       - layout: top-middle
         title: 
         link: github.com/sproogen
@@ -69,8 +70,9 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+        #description: | # this will include new lines to allow paragraphs
+         # I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+=end 
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -82,8 +84,21 @@ content:
         sub_title: Research Assistant in Integrated Brain Imaging Lab
         caption: November 2021 - Present
         description: | # this will include new lines to allow paragraphs
+            •	Assisted research in finding how the brain specifically monitors and modulates the gastric system, and what consequence this regulatory interaction has on cognition, emotion, and digestive function <br />
+            •	Collected gastric myoelectric data via surface electrodes placed on the abdomen above the stomach with BIOPAC MP160 <br />            
+            •	Analyzed brain-gut coupling within the human body using MATLAB and Python
+            
+     - layout: left
+        title: Keimyung University Dongsan Hospital 
+        link: https://dongsan.dsmc.or.kr:49870/
+        # link_text: boringcompany.com
+        sub_title: Researcher in Nuclear Medicine Department
+        caption: November 2021 - Present
+        description: | # this will include new lines to allow paragraphs
             •	Assisted research in finding how the brain specifically monitors and modulates the gastric system, and what consequence this regulatory interaction has on cognition, emotion, and digestive function
+            
             •	Collected gastric myoelectric data via surface electrodes placed on the abdomen above the stomach with BIOPAC MP160
+            
             •	Analyzed brain-gut coupling within the human body using MATLAB and Python
 
             
@@ -102,17 +117,29 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - BIOMEDE 458 [Biomedical Instrumentation and Design]
+     
            •	Project : Continuous Glucose Monitor Using Near-Infrared-Spectroscopy 
+           
       - BIOMEDE 442 [Introduction to Biomedical Imaging]
+      
       - BIOMEDE 350 [Introduction to Biomedical Engineering Design]
+      
            •	Project : Hip implant desgin
+           
       - IOE 366 [Introduction to Engineering Data Analytics]
+      
       - BIOMEDE 241 [Statistics, Computation, and Data Analysis]
+      
            •	Project (Python)
+           
            1) Human immune cell data for 19 cytokines against 4 immune stimulants (Synthetic HIV TLR agonists (CLO97), HIV TLR agonist (Gag 1166), non-replicating lab strain HIV (AT-2), wildtype HIV virus ( NL-43)) to see if there is a significant difference. Used a heatmap to indicate which specific stimulants are significant
+           
            2) Found out how neurons in the motor cortex relate to the direction of movement when humans or monkeys reach different goals arranged around a circle. After generating simulated firing rates of 100 of these neurons using the data, I determined how many neurons have significantly different firing rates between the first and second half, and the number of neurons with firing rates with significant gradients over time. .
+      
       - ENGR 100-820 [Exoskeleton Human Factors]
+      
            •	Project : Post-Stroke Rehabilitation Treatment: Integrating Exoskeletons into Therapeutic Arm Exercises
+           
            Investigated the effects of difficulty on post-stroke patients' ability to perform elbow extension/flexions. Based on our findings, we determined that adding difficulty factors to the rehabilitation treatment - namely wider range of motion and an auditory cue - resulted in subjects performing less successful extension/flexions overall. 
 
       
