@@ -53,10 +53,10 @@ about_content: | # this will include new lines to allow paragraphs
   Skills <mark>Python</mark> <mark>MATLAB</mark> <mark>Problem-solving</mark> <mark>Analytical thinking</mark> <mark>Research</mark>
 
 
-#content:
-#  - title: Projects # Title for the section
-#     layout: list # Type of content section (list/text)
-#     content:
+content:
+# - title: Projects # Title for the section
+#    layout: list # Type of content section (list/text)
+#    content:
 #      - layout: top-middle
 #        title: 
 #        link: github.com/sproogen
@@ -87,16 +87,15 @@ about_content: | # this will include new lines to allow paragraphs
             •	Assisted research in finding how the brain specifically monitors and modulates the gastric system, and what consequence this regulatory interaction has on cognition, emotion, and digestive function <br />
             •	Collected gastric myoelectric data via surface electrodes placed on the abdomen above the stomach with BIOPAC MP160 <br />            
             •	Analyzed brain-gut coupling within the human body using MATLAB and Python
-            
-     - layout: left
+      - layout: left
         title: Keimyung University Dongsan Hospital 
         link: https://dongsan.dsmc.or.kr:49870/
         sub_title: Researcher in Nuclear Medicine Department
-        caption: November 2021 - Present
+        caption: December 2020 - July 2021
         description: | # this will include new lines to allow paragraphs
-          •	Researched in predicting the SUVmax of axillary lymph node(ALN) metastasis in patients with breast cancer from PET/CT images using the deep learning algorithms. <br /> 
-          • Gained a strong foundation understanding of the methods of diagnosing breast cancer through axillary lymph node metastasis and treatments conducted for breast cancer. <br /> 
-          •	Extracted and analzsed data features in PET images of Intra-hepatic cholangiocarcinoma patients using 3D slicer and Pyradiomics to predict the stages before surgery   
+            •	Researched in predicting the SUVmax of axillary lymph node(ALN) metastasis in patients with breast cancer from PET/CT images using the deep learning algorithms. <br /> 
+            • Gained a strong foundation understanding of the methods of diagnosing breast cancer through axillary lymph node metastasis and treatments conducted for breast cancer. <br /> 
+            •	Extracted and analzsed data features in PET images of Intra-hepatic cholangiocarcinoma patients using 3D slicer and Pyradiomics to predict the stages before surgery   
 
             
   - title: Education # Title for the section
@@ -119,9 +118,7 @@ about_content: | # this will include new lines to allow paragraphs
       - BIOMEDE 350 [Introduction to Biomedical Engineering Design] <br />       
            •	Project : Hip implant desgin<br />         
       - IOE 366 [Introduction to Engineering Data Analytics]<br /> 
-      
       - BIOMEDE 241 [Statistics, Computation, and Data Analysis]<br /> 
-      
            •	Project (Python)<br /> 
            
            1) Human immune cell data for 19 cytokines against 4 immune stimulants (Synthetic HIV TLR agonists (CLO97), HIV TLR agonist (Gag 1166), non-replicating lab strain HIV (AT-2), wildtype HIV virus ( NL-43)) to see if there is a significant difference. Used a heatmap to indicate which specific stimulants are significant
