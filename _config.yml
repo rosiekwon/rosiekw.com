@@ -113,23 +113,31 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - BIOMEDE 458 [Biomedical Instrumentation and Design] <br /> 
-           •	Project : Continuous Glucose Monitor Using Near-Infrared-Spectroscopy <br /> 
-      - BIOMEDE 442 [Introduction to Biomedical Imaging]<br />      
-      - BIOMEDE 350 [Introduction to Biomedical Engineering Design] <br />       
-           •	Project : Hip implant desgin<br />         
-      - IOE 366 [Introduction to Engineering Data Analytics]<br /> 
-      - BIOMEDE 241 [Statistics, Computation, and Data Analysis]<br /> 
-           •	Project (Python)<br /> 
+           -	Project : Continuous Glucose Monitor Using Near-Infrared-Spectroscopy <br /> 
            
+      - BIOMEDE 442 [Introduction to Biomedical Imaging]<br />      
+      - BIOMEDE 350 [Introduction to Biomedical Engineering Design]<br />       
+           -	Project : Hip implant desgin<br />         
+      - IOE 366 [Introduction to Engineering Data Analytics]<br /> 
+      - BIOMEDE 241 [Statistics, Computation, and Data Analysis] <br /> 
+           -	Project (Python)<br /> 
            1) Human immune cell data for 19 cytokines against 4 immune stimulants (Synthetic HIV TLR agonists (CLO97), HIV TLR agonist (Gag 1166), non-replicating lab strain HIV (AT-2), wildtype HIV virus ( NL-43)) to see if there is a significant difference. Used a heatmap to indicate which specific stimulants are significant
            
            2) Found out how neurons in the motor cortex relate to the direction of movement when humans or monkeys reach different goals arranged around a circle. After generating simulated firing rates of 100 of these neurons using the data, I determined how many neurons have significantly different firing rates between the first and second half, and the number of neurons with firing rates with significant gradients over time. .
       
       - ENGR 100-820 [Exoskeleton Human Factors] <br /> 
       
-           •	Project : Post-Stroke Rehabilitation Treatment: Integrating Exoskeletons into Therapeutic Arm Exercises <br /> 
+           -	Project : Post-Stroke Rehabilitation Treatment: Integrating Exoskeletons into Therapeutic Arm Exercises <br /> 
            
            Investigated the effects of difficulty on post-stroke patients' ability to perform elbow extension/flexions. Based on our findings, we determined that adding difficulty factors to the rehabilitation treatment - namely wider range of motion and an auditory cue - resulted in subjects performing less successful extension/flexions overall. 
+
+  - title: Honors & Awards
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+    - RES-MATCH (2020 Spring) | Illinois Institute of Technology
+    - Dean's list (2019 Fall, 2020 Spring) | Illinois Institute of Technology
+    - University Honors (2021 Fall) | University of Michigan
+    - Dean's list (2021 Fall) | University of Michigan
 
       
 # Footer
