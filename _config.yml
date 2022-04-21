@@ -49,9 +49,11 @@ about_profile_image: profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi,  I'm an undergraduate  Biomedical engineering  student at the University of Michigan. 
   I am interested in research towards bioinformatics and precision medicine in oncology. 
-  I have experience in product design using SolidWorks and COMSOL and programming in MATLAB, Python, R and C++.
-  Skills <mark>Python</mark> <mark>MATLAB</mark> <mark>Problem-solving</mark> <mark>Analytical thinking</mark> <mark>Research</mark> 
-
+  I have experience in product design using SolidWorks and COMSOL and programming in MATLAB, Python, R and C++. <br /> 
+  
+  <mark>Skills</mark> Python, MATLAB, R, C++, statistical anlaysis, time management skills, attention to detail <br /> 
+  <mark>Hobby</mark> Reading, Blogging, Yoga, Travel
+  
 
 content:
 # - title: Projects # Title for the section
@@ -85,7 +87,7 @@ content:
         caption: November 2021 - Present
         description: | # this will include new lines to allow paragraphs
             •	Assisted research in finding how the brain specifically monitors and modulates the gastric system, and what consequence this regulatory interaction has on cognition, emotion, and digestive function <br />
-            •	Collected gastric myoelectric data via surface electrodes placed on the abdomen above the stomach with BIOPAC MP160 <br />            
+            •	Collected gastric myoelectric data via surface electrodes placed on the abdomen above the stomach with BIOPAC MP160<br />           
             •	Analyzed brain-gut coupling within the human body using MATLAB and Python
       - layout: left
         title: Keimyung University Dongsan Hospital 
@@ -130,8 +132,7 @@ content:
       - IOE 366 [Introduction to Engineering Data Analytics]<br /> 
       - BIOMEDE 241 [Statistics, Computation, and Data Analysis] <br /> 
            -	Project (Python)<br /> 
-           1) Human immune cell data for 19 cytokines against 4 immune stimulants (Synthetic HIV TLR agonists (CLO97), HIV TLR agonist (Gag 1166), non-replicating lab strain HIV (AT-2), wildtype HIV virus ( NL-43)) to see if there is a significant difference. Used a heatmap to indicate which specific stimulants are significant
-           
+           1) Human immune cell data for 19 cytokines against 4 immune stimulants (Synthetic HIV TLR agonists (CLO97), HIV TLR agonist (Gag 1166), non-replicating lab strain HIV (AT-2), wildtype HIV virus ( NL-43)) to see if there is a significant difference. Used a heatmap to indicate which specific stimulants are significant <br />            
            2) Found out how neurons in the motor cortex relate to the direction of movement when humans or monkeys reach different goals arranged around a circle. After generating simulated firing rates of 100 of these neurons using the data, I determined how many neurons have significantly different firing rates between the first and second half, and the number of neurons with firing rates with significant gradients over time. .
       
       - ENGR 100-820 [Exoskeleton Human Factors] <br /> 
