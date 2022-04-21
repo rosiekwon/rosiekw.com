@@ -49,6 +49,7 @@ about_profile_image: profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Eunjin and I'm a senior in Biomedical engineering at University of Michigan. 
   
+  
   Skills <mark>Python</mark> <mark>MATLAB</mark> <mark>Problem-solving</mark> <mark>Analytical thinking</mark> <mark>Research</mark>
 
 content:
@@ -78,30 +79,41 @@ content:
         title: University of Michigan
         link: https://libi.engin.umich.edu/
         # link_text: boringcompany.com
-        sub_title: Research assistant
+        sub_title: Research Assistant in Integrated Brain Imaging Lab
         caption: November 2021 - Present
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            •	Assisted research in finding how the brain specifically monitors and modulates the gastric system, and what consequence this regulatory interaction has on cognition, emotion, and digestive function
+            •	Collected gastric myoelectric data via surface electrodes placed on the abdomen above the stomach with BIOPAC MP160
+            •	Analyzed brain-gut coupling within the human body using MATLAB and Python
 
+            
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: University of Michigan
         caption: 2010 - 2013
-        sub_title: BSE Biomedical Engineering _ concentration  
+        sub_title: BSE Biomedical Engineering  
         quote: A top-ranked public university, the University of Michigan has a tradition of excellence in research, learning and teaching, sports and the arts, and more
         description: | # this will include new lines to allow paragraphs
-          During my time at University of Michigan I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          During my time at University of Michigan, I learned most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
-  - title: A Little More About Me
+  - title: Relevant Coursework
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Drawing
-      - Editing Videos
-      - Baking
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - BIOMEDE 458 [Biomedical Instrumentation and Design]
+           •	Project : Continuous Glucose Monitor Using Near-Infrared-Spectroscopy 
+      - BIOMEDE 442 [Introduction to Biomedical Imaging]
+      - BIOMEDE 350 [Introduction to Biomedical Engineering Design]
+           •	Project : Hip implant desgin
+      - IOE 366 [Introduction to Engineering Data Analytics]
+      - BIOMEDE 241 [Statistics, Computation, and Data Analysis]
+           •	Project (Python)
+           1) Human immune cell data for 19 cytokines against 4 immune stimulants (Synthetic HIV TLR agonists (CLO97), HIV TLR agonist (Gag 1166), non-replicating lab strain HIV (AT-2), wildtype HIV virus ( NL-43)) to see if there is a significant difference. Used a heatmap to indicate which specific stimulants are significant
+           2) Found out how neurons in the motor cortex relate to the direction of movement when humans or monkeys reach different goals arranged around a circle. After generating simulated firing rates of 100 of these neurons using the data, I determined how many neurons have significantly different firing rates between the first and second half, and the number of neurons with firing rates with significant gradients over time. .
+      - ENGR 100-820 [Exoskeleton Human Factors]
+           •	Project : Post-Stroke Rehabilitation Treatment: Integrating Exoskeletons into Therapeutic Arm Exercises
+           Investigated the effects of difficulty on post-stroke patients' ability to perform elbow extension/flexions. Based on our findings, we determined that adding difficulty factors to the rehabilitation treatment - namely wider range of motion and an auditory cue - resulted in subjects performing less successful extension/flexions overall. 
 
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
