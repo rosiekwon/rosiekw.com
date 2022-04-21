@@ -139,14 +139,14 @@ content:
            -	Project : Post-Stroke Rehabilitation Treatment: Integrating Exoskeletons into Therapeutic Arm Exercises <br /> 
            
            Investigated the effects of difficulty on post-stroke patients' ability to perform elbow extension/flexions. Based on our findings, we determined that adding difficulty factors to the rehabilitation treatment - namely wider range of motion and an auditory cue - resulted in subjects performing less successful extension/flexions overall. 
-
+  
   - title: Honors & Awards
     layout: text
     content: | # this will include new lines to allow paragraphs
-    - RES-MATCH (2020 Spring) | Illinois Institute of Technology
-    - Dean's list (2019 Fall, 2020 Spring) | Illinois Institute of Technology
-    - University Honors (2021 Fall) | University of Michigan
-    - Dean's list (2021 Fall) | University of Michigan
+      - RES-MATCH (2020 Spring) | Illinois Institute of Technology
+      - Dean's list (2019 Fall, 2020 Spring) | Illinois Institute of Technology
+      - University Honors (2021 Fall) | University of Michigan
+      - Dean's list (2021 Fall) | University of Michigan
 
       
 # Footer
