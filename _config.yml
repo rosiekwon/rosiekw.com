@@ -47,7 +47,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Eunjin and I'm a senior in Biomedical engineering at University of Michigan. 
+  Hi,  I'm a undergraduate student in Biomedical engineering at University of Michigan. 
   
   
   Skills <mark>Python</mark> <mark>MATLAB</mark> <mark>Problem-solving</mark> <mark>Analytical thinking</mark> <mark>Research</mark>
@@ -92,7 +92,7 @@ content:
     content:
       - layout: left
         title: University of Michigan
-        caption: 2010 - 2013
+        caption: 2020 - 2022
         sub_title: BSE Biomedical Engineering  
         quote: A top-ranked public university, the University of Michigan has a tradition of excellence in research, learning and teaching, sports and the arts, and more
         description: | # this will include new lines to allow paragraphs
@@ -115,9 +115,7 @@ content:
            •	Project : Post-Stroke Rehabilitation Treatment: Integrating Exoskeletons into Therapeutic Arm Exercises
            Investigated the effects of difficulty on post-stroke patients' ability to perform elbow extension/flexions. Based on our findings, we determined that adding difficulty factors to the rehabilitation treatment - namely wider range of motion and an auditory cue - resulted in subjects performing less successful extension/flexions overall. 
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
-
+      
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
