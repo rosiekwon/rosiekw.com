@@ -47,10 +47,10 @@ additional_links:
 # about_title: About Me
 about_profile_image: profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi,  I'm a undergraduate student in Biomedical engineering at University of Michigan. 
-  
-  
-  Skills <mark>Python</mark> <mark>MATLAB</mark> <mark>Problem-solving</mark> <mark>Analytical thinking</mark> <mark>Research</mark>
+  Hi,  I'm an undergraduate  Biomedical engineering  student at the University of Michigan. 
+  I am interested in research towards bioinformatics and precision medicine in oncology. 
+  I have experience in product design using SolidWorks and COMSOL and programming in MATLAB, Python, R and C++.
+  Skills <mark>Python</mark> <mark>MATLAB</mark> <mark>Problem-solving</mark> <mark>Analytical thinking</mark> <mark>Research</mark> 
 
 
 content:
@@ -96,8 +96,17 @@ content:
             •	Researched in predicting the SUVmax of axillary lymph node(ALN) metastasis in patients with breast cancer from PET/CT images using the deep learning algorithms. <br /> 
             • Gained a strong foundation understanding of the methods of diagnosing breast cancer through axillary lymph node metastasis and treatments conducted for breast cancer. <br /> 
             •	Extracted and analzsed data features in PET images of Intra-hepatic cholangiocarcinoma patients using 3D slicer and Pyradiomics to predict the stages before surgery   
+      - layout: left
+        title: National Cancer Center Korea
+        link: https://ncc.re.kr/indexEn.ncc
+        sub_title: Researcher in Precision Medicine Department
+        caption: December 2020 - July 2021
+        description: | # this will include new lines to allow paragraphs
+            •	Researched in predicting the SUVmax of axillary lymph node(ALN) metastasis in patients with breast cancer from PET/CT images using the deep learning algorithms. <br /> 
+            • Gained a strong foundation understanding of the methods of diagnosing breast cancer through axillary lymph node metastasis and treatments conducted for breast cancer. <br /> 
+            •	Extracted and analzsed data features in PET images of Intra-hepatic cholangiocarcinoma patients using 3D slicer and Pyradiomics to predict the stages before surgery   
 
-            
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
