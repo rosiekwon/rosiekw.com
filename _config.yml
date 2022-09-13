@@ -20,7 +20,7 @@ github_username:  rosiekwon
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: rosie_ffect
+instagram_username: rosie_kw14
 linkedin_username: rosieeunjink
 # xing_username: jekyll
 # pinterest_username: jekyll
@@ -126,10 +126,13 @@ content:
       - BIOMEDE 458 [Biomedical Instrumentation and Design] <br /> 
            -	Project : Continuous Glucose Monitor Using Near-Infrared-Spectroscopy <br /> 
            
-      - BIOMEDE 442 [Introduction to Biomedical Imaging]<br />      
+      - BIOMEDE 442 [Introduction to Biomedical Imaging]<br />
+      
       - BIOMEDE 350 [Introduction to Biomedical Engineering Design]<br />       
-           -	Project : Hip implant desgin<br />         
-      - IOE 366 [Introduction to Engineering Data Analytics]<br /> 
+           -	Project : Hip implant desgin using COMSOL and solidworks<br />
+           
+      - IOE 366 [Introduction to Engineering Data Analytics]<br />
+      
       - BIOMEDE 241 [Statistics, Computation, and Data Analysis] <br /> 
            -	Project (Python)<br /> 
            1) Human immune cell data for 19 cytokines against 4 immune stimulants (Synthetic HIV TLR agonists (CLO97), HIV TLR agonist (Gag 1166), non-replicating lab strain HIV (AT-2), wildtype HIV virus ( NL-43)) to see if there is a significant difference. Used a heatmap to indicate which specific stimulants are significant <br />            
@@ -139,7 +142,7 @@ content:
       
            - Project : Post-Stroke Rehabilitation Treatment: Integrating Exoskeletons into Therapeutic Arm Exercises <br /> 
            
-      link: https://www.youtube.com/watch?v=b-bG-cjm98o
+           -link: https://www.youtube.com/watch?v=b-bG-cjm98o
           
            Investigated the effects of difficulty on post-stroke patients' ability to perform elbow extension/flexions. Based on our findings, we determined that adding difficulty factors to the rehabilitation treatment - namely wider range of motion and an auditory cue - resulted in subjects performing less successful extension/flexions overall. 
   
