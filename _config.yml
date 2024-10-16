@@ -47,8 +47,8 @@ additional_links:
 # about_title: About Me
 about_profile_image: profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi,  I'm an undergraduate  Biomedical engineering  student at the University of Michigan. 
-  I am interested in research towards bioinformatics and precision medicine in oncology. 
+  Hi,  I graduated the University of Michigan majoring in  Biomedical engineering in 2022. 
+  I am interested in research towards biostatistics, epidemiology and precision medicine. 
   I have experience in product design using SolidWorks and COMSOL and programming in MATLAB, Python, R and C++. <br /> 
   
   <mark>Skills</mark> Python, MATLAB, R, C++, statistical anlaysis, time management skills, attention to detail <br /> 
@@ -125,7 +125,10 @@ content:
     content: | # this will include new lines to allow paragraphs
       - BIOMEDE 458 [Biomedical Instrumentation and Design] <br /> 
            -	Project : Continuous Glucose Monitor Using Near-Infrared-Spectroscopy <br /> 
-           
+      - BIOMEDE 450 [Biomedical Design]  <br /> 
+           -  Project : OVARcome Polycystic Ovarian Syndrome (PCOS) At-risk Identification Test Kit  <br /> 
+           -  Design History File :  
+      
       - BIOMEDE 442 [Introduction to Biomedical Imaging]<br />
       
       - BIOMEDE 350 [Introduction to Biomedical Engineering Design]<br />       
